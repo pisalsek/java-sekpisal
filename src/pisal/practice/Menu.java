@@ -33,7 +33,7 @@ public class Menu {
                         switch (choose) {
                             case 1:
                                 System.out.println("1. add new teacher");
-                                
+
                                 break;
                             case 2:
                                 System.out.println("2. update teacher by id");
